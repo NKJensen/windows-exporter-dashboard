@@ -2,7 +2,7 @@
 Windows Exporter Dashboard
 [in grafana dashboards](https://grafana.com/grafana/dashboards/14694)
 
-# If You've installed windows expxorter already
+# If You've installed windows exporter already
 
 * Open up `Control Panel` and uninstall `windows_exporter` from `Programs and Features`
  
